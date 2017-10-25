@@ -1,0 +1,8 @@
+[class^="el-icon-fa"], [class*="el-icon-fa"] {
+  display: inline-block;
+  font-size: inherit;
+  font: normal normal normal 1em/1 FontAwesome!important;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

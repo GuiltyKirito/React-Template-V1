@@ -1,0 +1,15 @@
+{
+  "presets": [
+    "react-app"
+  ],
+  "plugins": [
+    "transform-decorators-legacy",
+    [
+      "react-css-modules",
+      {
+        "webpackHotModuleReloading": true,
+        "generateScopedName": "[path].[name].[local].[hash:base64:5]"
+      }
+    ]
+  ]
+}
